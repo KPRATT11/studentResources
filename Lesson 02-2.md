@@ -1,6 +1,6 @@
 <!-- @format -->
 
-# Week 2 - Part 1
+# Week 2 - Part 2
 
 ## Outcomes  
 - Using state with inputs
